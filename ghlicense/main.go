@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // Copyright 2016 Nick Miyake. All rights reserved.
 // Licensed under the MIT License. See LICENSE in the project root
 // for license information.
@@ -10,8 +15,8 @@ import (
 	"github.com/nmiyake/pkg/errorstringer"
 	"github.com/palantir/pkg/cli"
 
-	"github.com/nmiyake/ghcli/common"
-	"github.com/nmiyake/ghcli/ghlicense/cmd"
+	"github.com/sniperkit/snk.fork.ghcli/common"
+	"github.com/sniperkit/snk.fork.ghcli/ghlicense/cmd"
 )
 
 func main() {

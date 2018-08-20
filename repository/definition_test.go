@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // Copyright 2016 Nick Miyake. All rights reserved.
 // Licensed under the MIT License. See LICENSE in the project root
 // for license information.
@@ -16,7 +21,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/nmiyake/ghcli/repository"
+	"github.com/sniperkit/snk.fork.ghcli/repository"
 )
 
 const testYML = `

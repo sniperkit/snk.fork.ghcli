@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // Copyright 2016 Nick Miyake. All rights reserved.
 // Licensed under the MIT License. See LICENSE in the project root
 // for license information.
@@ -10,7 +15,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/nmiyake/ghcli/repository"
+	"github.com/sniperkit/snk.fork.ghcli/repository"
 )
 
 type hasPatentsAnalyzer struct{}

@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // Copyright 2016 Nick Miyake. All rights reserved.
 // Licensed under the MIT License. See LICENSE in the project root
 // for license information.
@@ -14,9 +19,9 @@ import (
 	"github.com/palantir/pkg/cli/flag"
 	"github.com/pkg/errors"
 
-	"github.com/nmiyake/ghcli/common"
-	"github.com/nmiyake/ghcli/license"
-	"github.com/nmiyake/ghcli/repository"
+	"github.com/sniperkit/snk.fork.ghcli/common"
+	"github.com/sniperkit/snk.fork.ghcli/license"
+	"github.com/sniperkit/snk.fork.ghcli/repository"
 )
 
 const reposParamName = "repositories"

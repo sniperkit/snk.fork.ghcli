@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 machine:
   environment:
     GODIST: "go1.7.3.linux-amd64.tar.gz"
